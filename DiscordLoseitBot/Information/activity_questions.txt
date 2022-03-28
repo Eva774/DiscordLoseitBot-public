@@ -1,0 +1,130 @@
+{
+    "What is your username?": {
+        "name": "What is your username?",
+        "id": "entry.1615425988",
+        "choices": {},
+        "type": "short",
+        "validation": null
+    },
+    "What is your team?": {
+        "name": "What is your team?",
+        "id": "entry.1838126496",
+        "choices": {
+            "Option 1": "Star Trek",
+            "Option 2": "Futurama",
+            "Option 3": "Fallout",
+            "Option 4": "Voltron",
+            "Option 5": "Hitchhiker's Guide",
+            "Option 6": "Mad Max"
+        },
+        "type": "multiple choice",
+        "validation": null
+    },
+    "Fri Feb 18 Activity Minutes (only enter the number)": {
+        "name": "Fri Feb 18 Activity Minutes (only enter the number)",
+        "id": "entry.793911974",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Fri Feb 18 Steps (no commas or decimal points)": {
+        "name": "Fri Feb 18 Steps (no commas or decimal points)",
+        "id": "entry.649598335",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Sat Feb 19 Activity Minutes (only enter the number)": {
+        "name": "Sat Feb 19 Activity Minutes (only enter the number)",
+        "id": "entry.1870802234",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Sat Feb 19 Steps (no commas or decimal points)": {
+        "name": "Sat Feb 19 Steps (no commas or decimal points)",
+        "id": "entry.333174285",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Sun Feb 20 Activity Minutes (only enter the number)": {
+        "name": "Sun Feb 20 Activity Minutes (only enter the number)",
+        "id": "entry.1284530334",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Sun Feb 20 Steps (no commas or decimal points)": {
+        "name": "Sun Feb 20 Steps (no commas or decimal points)",
+        "id": "entry.984309205",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Mon Feb 21 Activity Minutes (only enter the number)": {
+        "name": "Mon Feb 21 Activity Minutes (only enter the number)",
+        "id": "entry.1872308367",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Mon Feb 21 Steps (no commas or decimal points)": {
+        "name": "Mon Feb 21 Steps (no commas or decimal points)",
+        "id": "entry.670397411",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Tue Feb 22 Activity Minutes (only enter the number)": {
+        "name": "Tue Feb 22 Activity Minutes (only enter the number)",
+        "id": "entry.1020656237",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Tue Feb 22 Steps (no commas or decimal points)": {
+        "name": "Tue Feb 22 Steps (no commas or decimal points)",
+        "id": "entry.854827391",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Wed Feb 23 Activity Minutes (only enter the number)": {
+        "name": "Wed Feb 23 Activity Minutes (only enter the number)",
+        "id": "entry.1152943817",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Wed Feb 23 Steps (no commas or decimal points)": {
+        "name": "Wed Feb 23 Steps (no commas or decimal points)",
+        "id": "entry.784745956",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Thur Feb 24 Activity Minutes (only enter the number)": {
+        "name": "Thur Feb 24 Activity Minutes (only enter the number)",
+        "id": "entry.778597719",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "Thur Feb 24 Steps (no commas or decimal points)": {
+        "name": "Thur Feb 24 Steps (no commas or decimal points)",
+        "id": "entry.1887041643",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    },
+    "dates": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+    ]
+}

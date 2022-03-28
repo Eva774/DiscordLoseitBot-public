@@ -1,0 +1,11 @@
+{
+    "LoseitChallenges_subreddit": "https://www.reddit.com/r/LoseItChallenges/",
+    "challenge_tracker": "https://docs.google.com/spreadsheets/d/11Xko94N3_uqxsAwgjOdiZFSmeW8f-0NGJzKvIkuptfw/edit",
+    "weighin_form": "https://docs.google.com/forms/d/e/1FAIpQLSeIwY7luVpf97APHS3zwsVY-TGzXDQczcKbkv6Yw8tX9OuKQw/viewform?usp=sf_link",
+    "activity_form": "https://docs.google.com/forms/d/e/1FAIpQLSfOREUf1K4EnhFbb64kQRlV5Kkb64V15YS4LudobaFIsS5YJA/viewform?usp=sf_link",
+    "covid_channel_name": "covid-19-team-isolation-\u2622",
+    "stridekick_channel_name": "stridekick-\ud83d\udeb6",
+    "reminder_channel": 761262465404108852,
+    "until": "2022-02-25 18:00:00",
+    "week": "W7"
+}

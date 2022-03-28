@@ -1,0 +1,16 @@
+{
+    "What is your reddit username? ": {
+        "name": "What is your reddit username? ",
+        "id": "entry.66859352",
+        "choices": {},
+        "type": "short",
+        "validation": null
+    },
+    "What is your weight today in pounds?": {
+        "name": "What is your weight today in pounds?",
+        "id": "entry.516038638",
+        "choices": {},
+        "type": "short",
+        "validation": "number"
+    }
+}

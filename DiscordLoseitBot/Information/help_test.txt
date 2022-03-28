@@ -1,0 +1,86 @@
+================================
+Bot: 
+	ping
+		None
+	echo
+		None
+	botoverlord
+		None
+================================
+Challenge: 
+	links
+		None
+	deadline
+		None
+	timeline
+		None
+	timeleft
+		None
+	username
+		Prints argument or stored reddit username
+	activity
+		Log your activity to the form
+	weighin
+		Log your weight to the form
+	set_links
+		None
+	days
+		None
+================================
+Discord: 
+	pin
+		None
+	descriptions
+		None
+	STOP
+		None
+	add_shortcut
+		None
+	shortcut
+		None
+	list_shortcuts
+		None
+	remove_shortcut
+		None
+	help
+		None
+================================
+Converters: 
+	ctof
+		Convert degrees Celsius to Fahrenheit
+	ftoc
+		Convert degrees Fahrenheit to Celsius
+	lbstokgs
+		Convert weight in lbs to kg
+	kgstolbs
+		Convert weight in kg to lbs
+	meterstoft
+		Convert length in feet and inches to meters
+	fttometers
+		Convert length in meters to feet and inches
+	milestokm
+		Convert distance in miles to kilometers
+	kmtomiles
+		Convert distance in kilometers to miles
+================================
+Fun: 
+	rainbows
+		None
+	rooting
+		None
+	spaceelmo
+		None
+	elmorage
+		None
+	welcometotheclub
+		None
+	stabbystab
+		None
+	whalehello
+		None
+	titleofyoursextape
+		None
+	zerodays
+		None
+	hydration
+		None
