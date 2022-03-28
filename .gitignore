@@ -1,3 +1,30 @@
+# Bot specific things
+
+auth.json
+DiscordAuth.py
+.env
+DiscordAuth.json
+Information/usernames.txt
+__init__.py
+.vscode/
+__pycache__/
+Bot/__pycache__/
+Bot/__init__.py
+Commands/__pycache__/
+Commands/__init__.py
+EventHandlers/__pycache__/
+EventHandlers/__init__.py
+Forms/__pycache__/
+Forms/__init__.py
+Information/__pycache__/
+Information/__init__.py
+*.log
+Information/*.txt
+GuildConfigs/*.json
+DiscordLoseitBot/helpers/server_ids.py
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
